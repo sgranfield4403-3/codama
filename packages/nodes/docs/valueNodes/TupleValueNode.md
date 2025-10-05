@@ -25,3 +25,5 @@ Helper function that creates a `TupleValueNode` object from an array of value no
 ```ts
 const node = tupleValueNode([stringValueNode('Alice'), numberValueNode(42)]);
 ```
+
+<!-- Auto-update: 2025-10-05T10:55:55.550896 -->
