@@ -370,3 +370,5 @@
     - @codama/errors@0.20.1
     - @codama/nodes@0.20.1
     - @codama/visitors-core@0.20.1
+
+<!-- Auto-update: 2025-10-06T23:27:38.386330 -->
