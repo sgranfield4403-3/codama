@@ -59,3 +59,5 @@ const node = rootNode(
     }),
 );
 ```
+
+<!-- Auto-update: 2025-10-06T08:21:23.107914 -->
