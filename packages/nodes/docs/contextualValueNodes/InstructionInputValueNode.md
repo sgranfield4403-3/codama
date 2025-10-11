@@ -5,3 +5,5 @@ The `InstructionInputValueNode` type helper represents all values that can be us
 - [`ContextualValueNode`](./README.md) (abstract)
 - [`ProgramLinkNode`](../linkNodes/ProgramLinkNode.md)
 - [`ValueNode`](../valueNodes/README.md) (abstract)
+
+<!-- Auto-update: 2025-10-11T13:13:03.342116 -->
