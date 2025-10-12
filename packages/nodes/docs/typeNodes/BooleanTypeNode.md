@@ -46,3 +46,5 @@ booleanTypeNode(numberTypeNode('u32'));
 // true  => 0x01000000
 // false => 0x00000000
 ```
+
+<!-- Auto-update: 2025-10-12T08:39:27.719368 -->
